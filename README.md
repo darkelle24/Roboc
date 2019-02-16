@@ -4,16 +4,16 @@ http://exercices.openclassrooms.com/assessment/159?id=235344&slug=apprenez-a-pro
 
 The robot is controllable through commands entered on the keyboard. There must be the following commands:
 
-.Q which must allow to save and leave the game in progress;
+  . Q which must allow to save and leave the game in progress;
 
-.N which asks the robot to move to the north (ie the top of your screen);
+  . N which asks the robot to move to the north (ie the top of your screen);
 
-.E that asks the robot to move east (that is, the right of your screen);
+  . E that asks the robot to move east (that is, the right of your screen);
 
-.S which asks the robot to move to the south (that is, the bottom of your screen);
+  . S which asks the robot to move to the south (that is, the bottom of your screen);
 
-.O who asks the robot to move to the west (that is, the left of your screen);
+  . O who asks the robot to move to the west (that is, the left of your screen);
 
-.Each of the above directions followed by a number allows to advance several boxes (eg E3 to advance three boxes to the east).
+  . Each of the above directions followed by a number allows to advance several boxes (eg E3 to advance three boxes to the east);
 
 The objectif is to go on "U" who is the exit
